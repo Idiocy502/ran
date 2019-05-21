@@ -31,7 +31,7 @@
 			
 			}
             var event2={
-                        x:-10,
+                        x:-15,
                         y:0
                     }
 	    setTimeout(function(){ 
